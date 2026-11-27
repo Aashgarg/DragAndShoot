@@ -4711,7 +4711,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14420f48cf8f443448599ff0f5f4ff31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneChanger
-  sceneName: LevelSix
+  sceneName: LevelSeven
 --- !u!61 &842266588
 BoxCollider2D:
   m_ObjectHideFlags: 0

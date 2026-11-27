@@ -187,6 +187,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &3864204
 LineRenderer:
   serializedVersion: 3
@@ -506,6 +507,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &27870388
 LineRenderer:
   serializedVersion: 3
@@ -1579,6 +1581,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &310698956
 LineRenderer:
   serializedVersion: 3
@@ -1898,6 +1901,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &322716571
 LineRenderer:
   serializedVersion: 3
@@ -2278,6 +2282,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &348545896
 LineRenderer:
   serializedVersion: 3
@@ -3201,7 +3206,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 6
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -3933,6 +3938,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &708146039
 LineRenderer:
   serializedVersion: 3
@@ -4252,6 +4258,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &830717795
 LineRenderer:
   serializedVersion: 3
@@ -5009,6 +5016,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 5
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &898362627
 LineRenderer:
   serializedVersion: 3
@@ -6664,6 +6672,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &1164094674
 LineRenderer:
   serializedVersion: 3
@@ -7466,6 +7475,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &1321458793
 LineRenderer:
   serializedVersion: 3
@@ -7819,6 +7829,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &1336886682
 LineRenderer:
   serializedVersion: 3
@@ -8240,6 +8251,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &1437496712
 LineRenderer:
   serializedVersion: 3
@@ -8953,6 +8965,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &1661820491
 LineRenderer:
   serializedVersion: 3
@@ -9303,6 +9316,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &1689782111
 LineRenderer:
   serializedVersion: 3
@@ -9897,6 +9911,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &1712317180
 LineRenderer:
   serializedVersion: 3
@@ -10730,6 +10745,7 @@ MonoBehaviour:
   power: 3
   maxDragDistance: 4
   trajectoryResolution: 15
+  beltIgnoreTime: 0.15
 --- !u!120 &1852199486
 LineRenderer:
   serializedVersion: 3
